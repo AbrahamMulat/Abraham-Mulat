@@ -1,9 +1,7 @@
 ---
-<<<<<<< HEAD
 title: "My Portfolio item number 1"
 =======
 title: "Portfolio item number 1"
->>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
