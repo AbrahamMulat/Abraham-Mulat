@@ -7,7 +7,11 @@ redirect_from:
   - /resume
 ---
 
+<<<<<<< HEAD
 <!-- {% include base_path %}
+=======
+{% include base_path %}
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 
 Education
 ======
@@ -61,4 +65,8 @@ Teaching
   
 Service and leadership
 ======
+<<<<<<< HEAD
 * Currently signed in to 43 different slack teams -->
+=======
+* Currently signed in to 43 different slack teams
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21

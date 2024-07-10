@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Abraham's Homepage"
 title_separator          : "-"
 name                     : &name "Abraham Mulat"
@@ -16,6 +17,15 @@ url                      : https://Abraham-Mulat.github.io # the base hostname &
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abrahammulat.github.io/Abraham-Mulat/"
 
+=======
+title                    : "Your Name / Site Title"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,9 +33,15 @@ repository               : "abrahammulat.github.io/Abraham-Mulat/"
 author:
   # Biographic information
   avatar           : "profile.png"
+<<<<<<< HEAD
   name             : "Abraham Mulat"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision Researcher"
+=======
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
@@ -44,7 +60,11 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
+<<<<<<< HEAD
   github           : "AbrahamMulat"
+=======
+  github           : "academicpages"
+>>>>>>> a5ede614473523077f69ad0fd09ee527151d0e21
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
