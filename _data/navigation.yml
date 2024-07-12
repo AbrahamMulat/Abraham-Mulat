@@ -1,26 +1,27 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-<<<<<<< HEAD
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Publications"
+    url: /publications/
+    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
+
   - title: "Certificates"
     url: /files/Certificates.pdf
+  
+  - title: "CV"
+    #url: /cv/
+    url: /files/Abraham_CV.pdf
         
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
   # - title: "Talks"
   #   url: /talks/    
 
   # - title: "Teaching"
-  #   url: /teaching/  
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    url: /files/Abraham_CV.pdf
+  #   url: /teaching/    
     
   # - title: "Guide"
   #   url: /markdown/
