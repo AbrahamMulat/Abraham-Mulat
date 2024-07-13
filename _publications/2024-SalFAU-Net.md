@@ -13,5 +13,5 @@ Salient object detection (SOD) remains an important task in computer vision, wit
 
 [Download paper here](https://arxiv.org/abs/2405.02906)
 
-Recommended citation: Mulat, Kassaw Abraham, et al. "SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection." arXiv preprint arXiv:2405.02906 (2024).
+Recommended citation: Mulat, Kassaw Abraham, et al. "SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection."arXiv preprint.
 
