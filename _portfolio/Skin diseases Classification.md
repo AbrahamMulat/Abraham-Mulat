@@ -1,7 +1,7 @@
 --- 
 title: "Skin diseases Classification" 
 excerpt: "Developed deep learning models using transfer learning method to detect 30 different types of skin
-diseases. <br/><img src='/images/Innovating healthcare with AI.JPG'>" 
+diseases. <br/><img src='/images/Innovating healthcare with AI2.JPG'>" 
 collection: portfolio 
 --- 
 Artificial intelligence is used to teach machines how to perform tasks like humans which can be
