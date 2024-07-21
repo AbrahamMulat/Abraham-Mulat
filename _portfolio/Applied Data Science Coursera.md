@@ -1,6 +1,6 @@
 ---
 title: "Applied Data Science Capstone Coursera"
-excerpt: "Implementation of machine learning classifier models. <br/><img src='/images/Applied data science capstone.JPG'>"
+excerpt: "Implementation of machine learning classifier models. <br/><img src='/images/Applied data science capstone.JPG' width='500' height='300>"
 collection: portfolio
 ---
 
