@@ -1,6 +1,6 @@
 ---
 title: "Scientific Research and Engineering Training (Internship)"
-excerpt: "Music genre classification and music source separation using deep learning methods<br/><img src='/images/500x300.png'>"
+excerpt: "Music genre classification and music source separation using deep learning methods<br/><img src='/images/music.JPG'>"
 collection: portfolio
 ---
 
