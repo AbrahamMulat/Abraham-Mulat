@@ -1,7 +1,7 @@
 --- 
 title: "Skin diseases Classification" 
 excerpt: "Developed deep learning models using transfer learning method to detect 30 different types of skin
-diseases. <br/><img src='/images/500x300.png'>" 
+diseases. <br/><img src='/images/Innovating healthcare with AI.JPG'>" 
 collection: portfolio 
 --- 
 Artificial intelligence is used to teach machines how to perform tasks like humans which can be
@@ -18,7 +18,9 @@ cases based on text input.
 AI is being used in almost all sectors of healthcare like in history taking, disease diagnosis, drug
 discovery, clinical trials, precision medicine, hospital management, decision making and
 triage.AI is used by doctors as a tool in disease diagnosis and by patients for patient education
-and patient support and in research of drugs, clinical trials and genetic research. AI has a lot of advantages in healthcare, but it also has a lot of challenges in its implementation
+and patient support and in research of drugs, clinical trials and genetic research. 
+
+AI has a lot of advantages in healthcare, but it also has a lot of challenges in its implementation
 like shortage of quality data in healthcare, bias in data and high cost of implanting AI. To make
 AI to solve challenges of healthcare, we have to first solve problems in implementation of AI in
 healthcare.
